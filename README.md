@@ -1,5 +1,7 @@
 # UtaUtaUtau
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z339HLX)
+
 ### Welcome!
 
 Hi! Welcome to my GitHub. I have some repositories in here that are usually just forks of vocal synth stuff... I'm the sole creator of the Python package [pyUtau](https://github.com/UtaUtaUtau/pyUtau). I also maintain [some scripts](https://github.com/UtaUtaUtau/nnsvslabeling) to help in developing [ENUNU](https://github.com/oatsu-gh/ENUNU) databases. I have some other ENUNU things lying around there but that's about it!
