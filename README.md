@@ -10,4 +10,4 @@ Hi! Welcome to my GitHub. I have some repositories in here that are usually just
 
 Hi... again. I'm UtaUtaUtau, better known as Uta because my username begs to be abbreviated. I come from the Philippines and I go by he/they pronouns. I like using vocalsynths because I like singing robots :)
 
-I'm entirely self-taught when it comes to programming so I don't really know what the best practices are sometimes... I do know Python, Lua, C, C++, Go, Java, and JavaScript but I mostly use Python.
+I'm entirely self-taught when it comes to programming so I don't really know what the best practices are sometimes... I do know Python, Java and JavaScript but I mostly use Python. I've also used Lua, Go, C, and C++ at least once in my life but I forgot most of it already.
