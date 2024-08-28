@@ -4,7 +4,7 @@
 
 ### Welcome!
 
-Hi! Welcome to my GitHub. I have some repositories in here that are usually just forks of vocal synth stuff... I'm the sole creator of the Python package [pyUtau](https://github.com/UtaUtaUtau/pyUtau). I also maintain [some scripts](https://github.com/UtaUtaUtau/nnsvslabeling) to help in developing [ENUNU](https://github.com/oatsu-gh/ENUNU) databases. I also have a [script](https://github.com/UtaUtaUtau/nnsvs-db-converter) for converting NNSVS databases into [DiffSinger](https://github.com/openvpi/DiffSinger) databases! I have other AI SVS things lying around there but that's about it!
+Hi! Welcome to my GitHub. I have some repositories here for most of my resources for the sake of putting it in one place. I'm the main dev of the Python package [pyUtau](https://github.com/UtaUtaUtau/pyUtau) and the UTAU resampler [straycat-rs](https://github.com/UtaUtaUtau/straycat-rs). I also maintain [some scripts](https://github.com/UtaUtaUtau/nnsvslabeling) to help in developing [ENUNU](https://github.com/oatsu-gh/ENUNU) databases. I also have a [script](https://github.com/UtaUtaUtau/nnsvs-db-converter) for converting NNSVS databases into [DiffSinger](https://github.com/openvpi/DiffSinger) databases! I have other AI SVS things lying around there but that's about it!
 
 ### About me
 
